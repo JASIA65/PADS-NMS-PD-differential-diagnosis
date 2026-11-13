@@ -1,0 +1,12 @@
+# Versions used to reproduce the reported results (Google Colab, Python 3.13)
+xgboost==3.3.0        # required for exact reproduction
+scikit-learn==1.6.1
+numpy==2.4.6
+pandas==2.2.3
+scipy
+matplotlib
+pillow
+# Only needed for some baselines and sensor models (notebooks 02 and 03)
+tensorflow
+catboost
+imbalanced-learn

@@ -1,0 +1,391 @@
+PADS_participant_id,outer_fold,diagnostic_group
+002,4,Other Movement Disorders
+004,4,Parkinson's
+005,1,Parkinson's
+006,1,Parkinson's
+007,1,Other Movement Disorders
+008,1,Parkinson's
+009,2,Parkinson's
+010,4,Parkinson's
+011,2,Other Movement Disorders
+012,2,Parkinson's
+013,3,Parkinson's
+014,3,Parkinson's
+015,4,Atypical Parkinsonism
+016,1,Other Movement Disorders
+017,2,Multiple Sclerosis
+018,4,Atypical Parkinsonism
+019,3,Parkinson's
+020,5,Parkinson's
+022,1,Parkinson's
+023,3,Other Movement Disorders
+024,3,Other Movement Disorders
+025,4,Parkinson's
+026,2,Parkinson's
+028,3,Parkinson's
+029,4,Parkinson's
+030,1,Parkinson's
+031,5,Parkinson's
+032,1,Atypical Parkinsonism
+033,1,Parkinson's
+035,5,Other Movement Disorders
+036,2,Multiple Sclerosis
+037,4,Other Movement Disorders
+038,2,Parkinson's
+039,1,Parkinson's
+040,4,Parkinson's
+041,2,Parkinson's
+042,5,Other Movement Disorders
+043,1,Other Movement Disorders
+044,1,Multiple Sclerosis
+047,5,Parkinson's
+048,5,Parkinson's
+049,4,Parkinson's
+050,4,Other Movement Disorders
+051,5,Parkinson's
+053,5,Parkinson's
+055,3,Parkinson's
+056,2,Parkinson's
+057,1,Parkinson's
+058,2,Other Movement Disorders
+059,2,Parkinson's
+060,1,Parkinson's
+061,2,Parkinson's
+063,4,Parkinson's
+064,4,Atypical Parkinsonism
+065,3,Parkinson's
+066,3,Essential Tremor
+067,2,Parkinson's
+068,1,Parkinson's
+069,3,Parkinson's
+070,5,Essential Tremor
+071,4,Parkinson's
+072,4,Essential Tremor
+073,5,Parkinson's
+074,4,Parkinson's
+075,1,Other Movement Disorders
+076,1,Parkinson's
+077,2,Other Movement Disorders
+079,3,Essential Tremor
+082,4,Parkinson's
+083,2,Parkinson's
+085,5,Parkinson's
+086,2,Parkinson's
+087,2,Parkinson's
+088,5,Essential Tremor
+089,1,Parkinson's
+090,1,Parkinson's
+091,5,Essential Tremor
+092,5,Parkinson's
+093,3,Parkinson's
+094,2,Parkinson's
+095,5,Parkinson's
+096,4,Parkinson's
+098,1,Multiple Sclerosis
+099,1,Parkinson's
+100,2,Essential Tremor
+102,2,Parkinson's
+103,5,Other Movement Disorders
+104,4,Essential Tremor
+105,1,Parkinson's
+106,1,Atypical Parkinsonism
+107,4,Parkinson's
+109,2,Parkinson's
+110,2,Atypical Parkinsonism
+111,5,Other Movement Disorders
+112,1,Essential Tremor
+113,5,Parkinson's
+114,2,Atypical Parkinsonism
+115,5,Parkinson's
+116,2,Parkinson's
+117,3,Other Movement Disorders
+118,3,Atypical Parkinsonism
+119,1,Parkinson's
+120,5,Parkinson's
+122,2,Parkinson's
+123,2,Other Movement Disorders
+124,2,Essential Tremor
+125,5,Parkinson's
+126,1,Essential Tremor
+127,3,Parkinson's
+128,4,Parkinson's
+129,2,Parkinson's
+130,3,Other Movement Disorders
+131,2,Parkinson's
+133,4,Parkinson's
+135,2,Parkinson's
+136,4,Parkinson's
+137,3,Other Movement Disorders
+138,2,Other Movement Disorders
+139,1,Parkinson's
+140,2,Other Movement Disorders
+142,1,Multiple Sclerosis
+143,5,Essential Tremor
+144,4,Parkinson's
+145,2,Parkinson's
+146,2,Parkinson's
+147,2,Parkinson's
+149,1,Parkinson's
+150,2,Parkinson's
+151,5,Parkinson's
+154,1,Parkinson's
+155,3,Parkinson's
+156,3,Parkinson's
+157,1,Parkinson's
+158,2,Atypical Parkinsonism
+159,1,Parkinson's
+161,3,Other Movement Disorders
+162,5,Parkinson's
+163,3,Parkinson's
+164,1,Other Movement Disorders
+166,3,Parkinson's
+168,2,Atypical Parkinsonism
+169,5,Parkinson's
+170,2,Parkinson's
+171,3,Essential Tremor
+172,3,Parkinson's
+173,5,Parkinson's
+174,3,Parkinson's
+175,5,Parkinson's
+176,4,Other Movement Disorders
+178,2,Other Movement Disorders
+179,3,Parkinson's
+180,1,Parkinson's
+181,3,Parkinson's
+182,1,Parkinson's
+183,1,Other Movement Disorders
+185,4,Parkinson's
+186,2,Parkinson's
+187,3,Parkinson's
+188,4,Essential Tremor
+189,4,Parkinson's
+190,3,Parkinson's
+191,5,Other Movement Disorders
+192,3,Parkinson's
+194,5,Parkinson's
+195,2,Multiple Sclerosis
+196,1,Other Movement Disorders
+197,2,Parkinson's
+198,4,Parkinson's
+200,4,Essential Tremor
+201,5,Parkinson's
+202,5,Parkinson's
+206,5,Parkinson's
+207,3,Other Movement Disorders
+208,3,Parkinson's
+209,1,Other Movement Disorders
+210,1,Parkinson's
+211,3,Parkinson's
+213,4,Other Movement Disorders
+215,2,Parkinson's
+216,5,Parkinson's
+217,1,Parkinson's
+218,3,Parkinson's
+219,2,Parkinson's
+220,1,Parkinson's
+221,3,Parkinson's
+222,2,Essential Tremor
+223,1,Parkinson's
+224,1,Other Movement Disorders
+225,1,Multiple Sclerosis
+226,1,Parkinson's
+228,3,Parkinson's
+233,4,Parkinson's
+234,4,Parkinson's
+235,5,Parkinson's
+236,3,Parkinson's
+237,4,Parkinson's
+238,2,Atypical Parkinsonism
+239,4,Parkinson's
+240,2,Parkinson's
+241,5,Other Movement Disorders
+242,3,Parkinson's
+243,3,Parkinson's
+244,1,Parkinson's
+245,5,Parkinson's
+246,5,Parkinson's
+248,1,Parkinson's
+249,4,Parkinson's
+252,2,Parkinson's
+255,2,Parkinson's
+256,4,Parkinson's
+257,4,Parkinson's
+258,4,Parkinson's
+259,5,Parkinson's
+260,5,Parkinson's
+261,4,Parkinson's
+262,4,Parkinson's
+263,2,Parkinson's
+264,2,Parkinson's
+265,5,Parkinson's
+266,2,Parkinson's
+267,3,Parkinson's
+268,3,Parkinson's
+269,2,Parkinson's
+270,5,Parkinson's
+271,2,Parkinson's
+273,1,Other Movement Disorders
+274,1,Parkinson's
+275,4,Essential Tremor
+276,5,Other Movement Disorders
+277,1,Parkinson's
+278,4,Essential Tremor
+279,3,Parkinson's
+280,3,Atypical Parkinsonism
+281,3,Parkinson's
+282,2,Parkinson's
+286,3,Parkinson's
+287,3,Other Movement Disorders
+288,4,Other Movement Disorders
+289,4,Parkinson's
+290,1,Parkinson's
+291,3,Atypical Parkinsonism
+292,4,Parkinson's
+293,3,Parkinson's
+296,3,Parkinson's
+297,4,Other Movement Disorders
+298,3,Other Movement Disorders
+299,4,Parkinson's
+300,2,Parkinson's
+301,5,Multiple Sclerosis
+302,4,Essential Tremor
+303,1,Parkinson's
+304,2,Atypical Parkinsonism
+305,4,Parkinson's
+306,1,Parkinson's
+307,4,Parkinson's
+309,2,Parkinson's
+310,3,Other Movement Disorders
+312,4,Parkinson's
+313,5,Parkinson's
+314,3,Other Movement Disorders
+315,5,Other Movement Disorders
+316,4,Parkinson's
+317,3,Other Movement Disorders
+318,4,Other Movement Disorders
+321,2,Other Movement Disorders
+322,5,Parkinson's
+323,3,Parkinson's
+324,1,Parkinson's
+325,1,Parkinson's
+326,5,Other Movement Disorders
+327,5,Parkinson's
+328,4,Parkinson's
+330,3,Essential Tremor
+331,3,Parkinson's
+332,4,Parkinson's
+333,5,Parkinson's
+334,3,Other Movement Disorders
+336,5,Parkinson's
+338,3,Parkinson's
+339,2,Parkinson's
+340,5,Essential Tremor
+341,3,Parkinson's
+342,5,Parkinson's
+343,1,Parkinson's
+344,3,Parkinson's
+345,4,Parkinson's
+346,5,Parkinson's
+347,3,Parkinson's
+348,4,Parkinson's
+349,5,Parkinson's
+350,2,Essential Tremor
+351,1,Parkinson's
+352,3,Parkinson's
+353,5,Parkinson's
+354,5,Parkinson's
+355,5,Parkinson's
+356,3,Parkinson's
+357,3,Parkinson's
+358,4,Parkinson's
+359,2,Other Movement Disorders
+360,2,Parkinson's
+361,3,Parkinson's
+362,2,Parkinson's
+363,4,Parkinson's
+364,1,Parkinson's
+365,2,Parkinson's
+366,1,Parkinson's
+367,5,Other Movement Disorders
+368,2,Parkinson's
+369,4,Parkinson's
+372,5,Parkinson's
+373,1,Other Movement Disorders
+374,3,Parkinson's
+375,4,Parkinson's
+376,5,Parkinson's
+377,1,Parkinson's
+378,4,Parkinson's
+380,2,Parkinson's
+381,5,Parkinson's
+382,3,Essential Tremor
+383,2,Parkinson's
+384,4,Parkinson's
+385,2,Parkinson's
+386,1,Essential Tremor
+387,3,Parkinson's
+388,1,Parkinson's
+390,1,Parkinson's
+392,1,Parkinson's
+393,4,Parkinson's
+394,3,Parkinson's
+395,5,Parkinson's
+396,1,Essential Tremor
+397,2,Atypical Parkinsonism
+398,3,Parkinson's
+399,5,Other Movement Disorders
+400,5,Parkinson's
+401,5,Parkinson's
+403,3,Parkinson's
+404,4,Other Movement Disorders
+405,5,Parkinson's
+406,1,Parkinson's
+409,5,Parkinson's
+410,2,Parkinson's
+411,2,Parkinson's
+412,4,Parkinson's
+413,4,Parkinson's
+414,5,Other Movement Disorders
+415,3,Parkinson's
+417,1,Parkinson's
+418,2,Parkinson's
+421,4,Multiple Sclerosis
+422,1,Parkinson's
+423,4,Essential Tremor
+424,4,Parkinson's
+425,3,Parkinson's
+426,1,Parkinson's
+428,2,Parkinson's
+429,4,Essential Tremor
+430,3,Parkinson's
+431,5,Parkinson's
+432,5,Multiple Sclerosis
+433,4,Parkinson's
+434,1,Other Movement Disorders
+435,1,Parkinson's
+437,5,Parkinson's
+438,3,Multiple Sclerosis
+439,4,Other Movement Disorders
+440,3,Parkinson's
+441,2,Parkinson's
+442,5,Parkinson's
+443,1,Parkinson's
+445,5,Essential Tremor
+446,4,Parkinson's
+447,4,Parkinson's
+448,2,Parkinson's
+450,1,Other Movement Disorders
+451,5,Other Movement Disorders
+452,4,Parkinson's
+453,3,Other Movement Disorders
+454,2,Parkinson's
+456,1,Parkinson's
+458,1,Parkinson's
+460,5,Parkinson's
+461,4,Parkinson's
+462,5,Other Movement Disorders
+464,3,Parkinson's
+465,1,Parkinson's
+467,1,Parkinson's
+468,5,Parkinson's
+469,5,Parkinson's
