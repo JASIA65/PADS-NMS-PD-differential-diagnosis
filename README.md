@@ -1,5 +1,7 @@
 # Robust Non-Motor Symptom Modeling for Parkinson's Disease Differential Diagnosis
 
+https://doi.org/10.5281/zenodo.24202188
+
 Code for the paper *Robust Non-Motor Symptom Modeling for Parkinson's Disease Differential Diagnosis*.
 The study uses the 30-item non-motor symptoms questionnaire in the PADS dataset to separate Parkinson's
 disease (PD, n = 276) from other movement and neurological disorders (DD, n = 114), with patient-level,
